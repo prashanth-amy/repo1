@@ -6,4 +6,4 @@ maturi prashanth
 branch2 new logic
 branch1 logic
 
-practice logic 1
+practice logic 2
